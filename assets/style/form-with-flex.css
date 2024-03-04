@@ -6,6 +6,10 @@
   --size-input: 10px;
 }
 
+body{
+  background-color: #3ea9f5;
+}
+
 .container {
   display: flex;
   flex-direction: column;
